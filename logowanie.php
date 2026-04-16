@@ -69,8 +69,8 @@
             <li>weterynarzy</li>
             <li>tych, co chcą kupić psa</li>
             <li>tych, co lubią psy</li>
-            <a href="regulamin.html">Przeczytaj regulamin forum</a>
         </ol>
+            <a href="regulamin.html">Przeczytaj regulamin forum</a>
     </section>
     </section>
 </section>
