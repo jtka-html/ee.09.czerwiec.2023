@@ -76,7 +76,7 @@
 </section>
 
     <section id="footer">
-        Stronę wykonał: 09220514492
+        Stronę wykonał: 00000000000
     </section>
     <?php 
         $pdo = null;
